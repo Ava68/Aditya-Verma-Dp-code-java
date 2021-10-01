@@ -1,6 +1,7 @@
 // problem Link -> https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#
 
 // Recursive Implementation of 0-1 knapsack.
+//Time complexity --> O(2^N)
 class Solution 
 { 
     //Function to return max value that can be put in knapsack of capacity W.
